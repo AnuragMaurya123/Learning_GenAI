@@ -1,0 +1,25 @@
+{
+  "name": "learning_genai",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "type": "module",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/AnuragMaurya123/Learning_GenAI.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/AnuragMaurya123/Learning_GenAI/issues"
+  },
+  "homepage": "https://github.com/AnuragMaurya123/Learning_GenAI#readme",
+  "dependencies": {
+    "start": "^5.1.0",
+    "tiktoken": "^1.0.22"
+  }
+}
